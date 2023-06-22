@@ -1,0 +1,3 @@
+# wiki
+
+Einfache Wikepedia Suche
